@@ -23,13 +23,6 @@
 **Languages:** Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C
 
 <br>
-
-<p>
-  <a href="https://www.linkedin.com/in/anu-goyal-9a4929344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" width="100%" />
