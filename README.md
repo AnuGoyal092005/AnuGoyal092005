@@ -6,12 +6,11 @@
 
 </div>
 
-🎓 BCA Student at Dev Samaj College for Women
-🤖 AI, ML & Deep Learning Intern @ ThinkNEXT Technologies
-🔭 Building real-world projects to learn by doing
-<center>
+BCA Student at Dev Samaj College for Women
+AI, ML & Deep Learning Intern @ ThinkNEXT Technologies
+Building real-world projects to learn by doing
+
 **Languages:** Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C
-</center>
 <br>
 
 <p align="center">
