@@ -4,19 +4,32 @@
 
 <img src="https://komarev.com/ghpvc/?username=AnuGoyal092005&color=blueviolet&style=flat" alt="profile views" />
 
-</div>
+<br><br>
 
-BCA Student at Dev Samaj College for Women\n
-AI, ML & Deep Learning Intern @ ThinkNEXT Technologies\n
-Building real-world projects to learn by doing
+<p>
+  <img src="https://img.shields.io/badge/_BCA_Student_at_Dev_Samaj_College_for_Women-7F00FF?style=flat-square&logoColor=white" />
+</p>
 
-**Languages:** Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C
+<p>
+  <img src="https://img.shields.io/badge/_AI,_ML_%26_Deep_Learning_Intern_@_ThinkNEXT_Technologies-E100FF?style=flat-square&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/_Building_real--world_projects_to_learn_by_doing-FF5F6D?style=flat-square&logoColor=white" />
+</p>
+
 <br>
 
-<p align="center">
+**Languages:** Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C
+
+<br>
+
+<p>
   <a href="https://www.linkedin.com/in/anu-goyal-9a4929344/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" width="100%" />
