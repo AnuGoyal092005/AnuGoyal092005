@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Anu%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Python%20%E2%80%A2%20AI%20%E2%80%A2%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=AnuGoyal092005&color=blueviolet&style=flat" alt="profile views" />
-
 <br><br>
 
 <p>
