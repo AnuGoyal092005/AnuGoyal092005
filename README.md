@@ -12,16 +12,16 @@
 
 ## 👋 About Me
 
-- 🎓 Bachelor of Computer Applications (BCA) student at **Dev Samaj College for Women, Chandigarh**
-- 💡 Strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**
-- 🧑‍💻 Hands-on experience with **Python, C++, SQL, HTML, CSS, JavaScript**, and database management
-- 🚀 Currently interning at **ThinkNEXT Technologies Private Limited** — a 6-week AI, ML & Deep Learning with Python internship
-- 🛠️ Building an **AI-based Student Performance Prediction and Career Recommendation System** during the internship
-- 📊 Gaining practical experience in Data Preprocessing, Data Visualization, and Model Building
-- 📚 Enhancing my skills through **IBM SkillBuild** and other professional learning programs
-- 🌱 Passionate about learning new technologies, collaborating with teams, and building impactful solutions
-- 🔭 Actively seeking opportunities to apply my skills and gain industry experience
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anu-goyal-9a4929344/)
+- Bachelor of Computer Applications (BCA) student at **Dev Samaj College for Women, Chandigarh**
+- Strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**
+- Hands-on experience with **Python, C++, SQL, HTML, CSS, JavaScript**, and database management
+- Currently interning at **ThinkNEXT Technologies Private Limited** — a 6-week AI, ML & Deep Learning with Python internship
+- Building an **AI-based Student Performance Prediction and Career Recommendation System** during the internship
+- Gaining practical experience in Data Preprocessing, Data Visualization, and Model Building
+- Enhancing my skills through **IBM SkillBuild** and other professional learning programs
+- Passionate about learning new technologies, collaborating with teams, and building impactful solutions
+- Actively seeking opportunities to apply my skills and gain industry experience
+- Reach me on [LinkedIn](https://www.linkedin.com/in/anu-goyal-9a4929344/)
 
 <br/>
 
